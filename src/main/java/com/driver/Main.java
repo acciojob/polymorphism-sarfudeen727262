@@ -7,6 +7,7 @@ class Main{
     System.out.println(p.product(3.45,44.4));
   }
   class Product{
+   //fsdgf
   public int product(int x, int y) {
     return x*y;
   }
